@@ -1,7 +1,7 @@
 import ViewMenu from "@/components/floating-buttons/ViewMenu";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-import AboutUs from "./(section)/AboutUs";
+// import AboutUs from "./(section)/AboutUs";
 import Experience from "./(section)/Experience";
 import Glimpse from "./(section)/Glimpse";
 import Hero from "./(section)/Hero";

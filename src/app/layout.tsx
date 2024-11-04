@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Istanbul",
   description:
     "Bavette was born from a passion for bringing the finest cuts of beef to the table, with a commitment to sustainability and premium quality.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: [{ rel: "icon", url: "/images/logo.png" }],
 };
 
 const manrope = Oswald({
